@@ -153,6 +153,8 @@ a {
 /* About Us */
 #about-us {
   height: 100vh;
+  display: flex;
+  align-items: center;
 }
 
 .about-us-container {
